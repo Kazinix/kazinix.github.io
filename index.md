@@ -2,4 +2,6 @@
 title: Home
 ---
 
-## Home
+```cs
+throw new NotImplementedException();
+```
