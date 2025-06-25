@@ -1,2 +1,6 @@
-## Kazinix 
+---
+title: About
+---
+
+## About 
 
